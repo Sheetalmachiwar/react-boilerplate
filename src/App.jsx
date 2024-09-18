@@ -4,7 +4,11 @@ const App = () => {
   //js logic 
   return (
     //html part
-    <div>hi sheetal</div>
+    <div>
+      <h1>hi sheetal</h1>
+      <h2>hello from other branch</h2>
+    </div>
+    
   )
 }
 
